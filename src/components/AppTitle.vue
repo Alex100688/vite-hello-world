@@ -18,6 +18,11 @@ export default {
   <div><AppHero/></div>
 </template>
 
-<style scoped></style>
+<style scoped>
+  h1{
+    text-align: center;
+    padding: 1.25rem, 0;
+  }
+</style>
 
 
